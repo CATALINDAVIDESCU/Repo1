@@ -38,13 +38,6 @@
 #         return self.__color
 #     @property
 #     def color(self):
-#         return self.__color
-#
-#     @color.getter
-#     def color(self):
-#         print(f'Getter: Culoarea este {self.__color}')
-#         return self.__color
-
 #     @color.setter
 #     def color(self,color):
 #         print(f'Setter:Noua culoare este {color}')
@@ -62,4 +55,11 @@
 # del car1.color
 # car1.color
 #
+#         return self.__color
+#
+#     @color.getter
+#     def color(self):
+#         print(f'Getter: Culoarea este {self.__color}')
+#         return self.__color
+
 
