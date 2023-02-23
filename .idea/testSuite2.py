@@ -1,0 +1,1 @@
+class TestSuite(TestCase):
